@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\AsusVivoBook\Downloads\PAF\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3080541617.index
+542874163.index
+3873767230.index
+2794092659.index
+13864512.index
+738223628.index
